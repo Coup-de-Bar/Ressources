@@ -1,0 +1,28 @@
+
+
+Diametre moyen d'une bulle de co2 dans le barboteur: 8mm
+->Vb=4/3 x pi x R^3 = 2.67e-7 m^3
+
+Masse volumique co2: 1,87 kg m−3
+Masse molaire co2:   44,0095 g/mol
+
+-> Volume molaire co2: Mv/Mm = 42,5 mol m-3
+
+-> Quantité de matière dans une bulle: 1,13475 e-5 mol/bulle
+
+Or d'apres l'equation de la reaction de fermentation alcoolique, 1mol de co2 <-> 1mol d'ethanol
+
+Masse molaire ethanol: 46,0684 g/mol
+
+->Masse d'ethanol/bulle: 5,22 e-4 g d'ethanol par bulle
+
+Avec au 02/12/21 à 14h, 1 bulle/5 sec -> 20 bulles/min -> 1200 bulles/h
+
+1min = ~10mg
+1h = ~600mg 
+24h = ~14,4g
+48h = ~29g
+
+Pour 5kg d'eau, je devrais etre a 29/5000*100=0,58%
+Fuck
+J'ai du foirer une conversion
