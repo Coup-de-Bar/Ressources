@@ -11,5 +11,5 @@
 	* [Reddit](https://www.reddit.com/r/opensourcedistilling/)
 	* [GitHub](https://github.com/OpenSourceDistilling)
 
-* https://www.openbrewerydb.org/: DB collaborative qui reference des brasseries, magasins... (très limitée en france lol)
-	*[Site](https://www.openbrewerydb.org/)
+* **Open Brewery DB **: DB collaborative qui reference des brasseries, magasins... (très limitée en france lol)
+	* [Site](https://www.openbrewerydb.org/)
